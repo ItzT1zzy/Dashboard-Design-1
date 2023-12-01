@@ -30,7 +30,7 @@
 
 1. Клонировать репозиторий:
 
-```git
+```bash
 git clone https://github.com/your-username/dashboard-design-1.git
 ```
 
