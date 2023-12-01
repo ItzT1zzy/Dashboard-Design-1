@@ -44,4 +44,4 @@
     npm run dev
     ```
 
-<p>Проект будет доступен по адресу <a href="https://localhost:5173" target="_blank">https://localhost:5173</a></p>
+<p>Проект будет доступен по адресу <a href="http://localhost:5173/" target="_blank">http://localhost:5173/</a></p>
