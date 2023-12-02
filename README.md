@@ -5,7 +5,7 @@
 
 ## Скриншоты
 
-![App Screenshot](https://via.placeholder.com/750x300?text=Soon)
+![App Screenshot](https://via.placeholder.com/800x500?text=Soon)
 
 
 ## Особенности
